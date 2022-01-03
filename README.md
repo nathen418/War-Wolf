@@ -1,7 +1,7 @@
 [![Discord](https://discordapp.com/api/guilds/649703068799336454/widget.png)](https://discordapp.com/invite/KKYw763)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/War-Wolf/template-repo?style=social)
-![](https://img.shields.io/github/repo-size/War-Wolf/template-repo?color=Green&style=flat-square)
-![](https://img.shields.io/tokei/lines/github/War-Wolf/template-repo?style=flat-square)  
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nathen418/War-Wolf?style=social)
+![](https://img.shields.io/github/repo-size/nathen418/War-Wolf?color=Green&style=flat-square)
+![](https://img.shields.io/tokei/lines/github/nathen418/War-Wolf?style=flat-square)  
 
 # War Wolf
 - Description: This repository contains all the Creo Parametric design files as well as presentation and data files for a Trebuchet project made for an Engineering Design class at the College of DuPage in 2019.
