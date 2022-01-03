@@ -4,20 +4,20 @@
 ![](https://img.shields.io/tokei/lines/github/War-Wolf/template-repo?style=flat-square)  
 
 # War Wolf
-- Description: This repository contains all the Creo Parametric design files as well as presentatioon and data files for a Trebuchet project made for an Engineering Design class at the College of DuPage in 2019.
+- Description: This repository contains all the Creo Parametric design files as well as presentation and data files for a Trebuchet project made for an Engineering Design class at the College of DuPage in 2019.
 
 ## How to build it yourself:
-- There is no guide on how to copy our design, however you can look at the 3d files and use that to inspire or copy for yourself
+- There is no guide on how to copy our design, however, you can look at the 3d files and use that to inspire or copy for yourself
 
 
 ## End goal of the project:
-- Try to throw a tennis ball as far as possible with a trebuchet under $100 and weighning no greater than 75lbs
+- Try to throw a tennis ball as far as possible with a trebuchet under $100 and weighing no greater than 75lbs
 
 
 ## Credits:
 - [Nate Goldsborough](https://github.com/nathen418)
 - Andres Moreno
-- Rauhl Patel
+- Rahul Patel
 - Pawel Puzia
 
 ## Join my discord server:
